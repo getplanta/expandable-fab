@@ -255,7 +255,7 @@ class Label : AppCompatTextView {
         hiddenToVisibleAnimationDurationMs = hiddenToVisibleAnimationDurationMs
         overshootTension = overshootTension
 
-        setBackgroundResource(R.drawable.background_general_rounded)
+        setBackgroundResource(R.drawable.efab_background_general_rounded)
         setPadding(48, 24, 48, 24)
     }
 
